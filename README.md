@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanket-patil-467330175/">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/56-linkedin-256.png"/>
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
   </a>
 </p>
 
