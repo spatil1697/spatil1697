@@ -20,7 +20,7 @@
 - 🎉 **2024 Goals:** Create 15+ Projects and learn at least 5-10 new Technologies.
 - ⚽ **Hobbies:** Soccer, Gaming, Reading
 
-<h2> 🚀 &nbsp;Languages, Technologies, and Tools Used and Learned</h2>
+<h2> 🚀 &nbsp;Languages and Technologies Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" width="45" height="45"/>
