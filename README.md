@@ -13,7 +13,6 @@
 <h>🌟 A Little Bit About Me and My Interests</h>
 ---
 - 👤 **Name:** Sanket Patil
-- 🌱 Eager to start my career and gain hands-on experience.
 - 💬 Open to learning new technologies and collaborating on projects.
 - 🎯 **Fields of Interest:** Full-stack development, Software Development, Web Development, DevOps
 - 📚 **Currently Learning:** Docker, Spring Boot, CI/CD
