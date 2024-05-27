@@ -15,7 +15,7 @@
 - 👤 **Name:** Sanket Patil
 - 💬 Open to learning new technologies and collaborating on projects.
 - 🎯 **Fields of Interest:** Full-stack development, Software Development, Web Development, DevOps
-- 📚 **Currently Learning:** Docker, CI/CD
+- 📚 **Currently Learning:** Cloud (Microsoft Azure)
 - 🎉 **2024 Goals:** Create 15+ Projects and learn at least 5-10 new Technologies.
 - ⚽ **Hobbies:** Soccer, Gaming, Reading
 
@@ -30,6 +30,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="springBoot" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="maven" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="tailwindcss" width="65" height="65"/>
