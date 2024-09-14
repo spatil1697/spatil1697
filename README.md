@@ -15,7 +15,6 @@
 - 👤 **Name:** Sanket Patil
 - 💬 Open to learning new technologies and collaborating on projects.
 - 🎯 **Fields of Interest:** Full-stack development, Software Development, Web Development, DevOps
-- 🎉 **2024 Goals:** Create 15+ Projects and learn at least 5-10 new Technologies.
 - ⚽ **Hobbies:** Soccer, Gaming, Reading
 
 <h2> 🚀 &nbsp;Languages and Technologies Used and Learned</h2>
