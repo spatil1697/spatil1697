@@ -42,11 +42,12 @@
 
 <h2> 📈 &nbsp;GitHub History </h2>
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=spatil1697&hide_progress=true&hide=python,procfile,dockerfile,shell&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=spatil1697&hide_progress=true&hide=python,procfile,dockerfile&theme=radical" alt="Top Languages" />
+</p>
 
 <p align="center">
-
- <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontAlign=51&reversal=true&descAlign=0&descAlignY=0&fontAlignY=54"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontAlign=51&reversal=true&descAlign=0&descAlignY=0&fontAlignY=54"/>
 </p>
 
 
