@@ -42,7 +42,7 @@
 
 <h2> 📈 &nbsp;GitHub History </h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spatil1697&hide_progress=true&hide=python,procfile,dockerfile&theme=radical)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=spatil1697&hide_progress=true&hide=python,procfile,dockerfile,shell&theme=radical)
 
 <p align="center">
 
